@@ -1,0 +1,28 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Runtime state files (generated at runtime, not versioned)
+fx_trader/
+!fx_trader/config.example.json
+
+# OS artefacts
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+
+# Temporary files
+*.json.tmp
+*.bak
+
+# Virtual environments
+venv/
+env/
+.venv/

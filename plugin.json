@@ -1,0 +1,14 @@
+{
+  "name": "fx-trader-skill",
+  "displayName": "FX, Gold & Oil Trader",
+  "version": "1.0.0",
+  "description": "9 skills for Forex, Gold (XAUUSD) & Oil day trading with read-only MetaTrader 5 integration: session/daily scanner, macro news, Long/Short entry timer, pip-accurate exit planner, 10,000-run Monte Carlo time machine, lot-size budget manager, spread-aware risk gate, manual MT5 tickets, and 24/5 session alerts.",
+  "author": {
+    "name": "Antigravity FX Adaptation (inspired by day-trader-skill)"
+  },
+  "suggestedPrompts": [
+    "Check active Forex sessions and live MT5 quotes for XAUUSD, EURUSD, and Oil",
+    "Scan Forex, Gold, and Oil for London/NY session breakouts and daily setups",
+    "Plan a trade on XAUUSD with stop, target, 10,000-run Time Machine odds, and exact MT5 lot size"
+  ]
+}
